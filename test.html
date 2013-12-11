@@ -1,0 +1,22 @@
+<html>
+<head>
+<link rel="stylesheet" href="jquery-ui-1.8.2.custom.css" type="text/css" media="all"/>
+  
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery-ui-1.8.2.custom.min.js"></script>
+<script type="text/javascript">
+$(function() {
+	var animales = ["Ardilla roja", "Gato", "Gorila occidental",
+	  "León", "Oso pardo", "Perro", "Tigre de Bengala"];
+	
+	$("#animal").autocomplete({
+	  source: animales
+	});
+});
+</script>
+</head>
+
+<body>
+<input type="text" id="animal"/>
+</body>
+</html>

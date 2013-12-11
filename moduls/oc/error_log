@@ -1,0 +1,17 @@
+[12-Oct-2012 01:31:45] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 266
+[12-Oct-2012 01:31:45] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 266
+[12-Oct-2012 01:31:45] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 274
+[12-Oct-2012 01:31:45] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 275
+[12-Oct-2012 01:31:45] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 292
+[17-Oct-2012 04:50:30] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 300
+[17-Oct-2012 04:50:30] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 300
+[17-Oct-2012 04:50:30] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 312
+[17-Oct-2012 04:50:30] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 313
+[17-Oct-2012 04:50:30] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 338
+[17-Oct-2012 04:51:35] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 300
+[17-Oct-2012 04:51:35] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 300
+[17-Oct-2012 04:51:35] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 312
+[17-Oct-2012 04:51:35] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 313
+[17-Oct-2012 04:51:35] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 338
+[19-Oct-2012 17:00:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php:8) in /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php on line 14
+[19-Oct-2012 17:00:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php:8) in Unknown on line 0

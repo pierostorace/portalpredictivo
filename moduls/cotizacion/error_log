@@ -1,0 +1,43 @@
+[24-Oct-2012 12:28:26] PHP Warning:  include_once(../../code/bl/bl_cotizacion.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home7/grupore1/public_html/galverperu/portal/moduls/cotizacion/index.php on line 1
+[24-Oct-2012 12:28:26] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../../code/bl/bl_cotizacion.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home7/grupore1/public_html/galverperu/portal/moduls/cotizacion/index.php on line 1
+[24-Oct-2012 12:28:26] PHP Fatal error:  Class 'bl_cotizacion' not found in /home7/grupore1/public_html/galverperu/portal/moduls/cotizacion/index.php on line 1
+[24-Oct-2012 12:34:24] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:34:24] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:34:24] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 334
+[24-Oct-2012 12:34:24] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 336
+[24-Oct-2012 12:34:24] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 395
+[24-Oct-2012 12:35:17] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:35:17] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:35:17] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 334
+[24-Oct-2012 12:35:17] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 336
+[24-Oct-2012 12:35:17] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 395
+[24-Oct-2012 12:36:43] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:36:43] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:36:43] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 334
+[24-Oct-2012 12:36:43] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 336
+[24-Oct-2012 12:36:43] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 395
+[24-Oct-2012 12:37:38] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:37:38] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:37:38] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 334
+[24-Oct-2012 12:37:38] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 336
+[24-Oct-2012 12:37:38] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 395
+[24-Oct-2012 12:37:48] PHP Warning:  include_once(../../code/bl/bl_cotizacion.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home7/grupore1/public_html/galverperu/portal/moduls/cotizacion/index.php on line 1
+[24-Oct-2012 12:37:48] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../../code/bl/bl_cotizacion.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home7/grupore1/public_html/galverperu/portal/moduls/cotizacion/index.php on line 1
+[24-Oct-2012 12:37:48] PHP Fatal error:  Class 'bl_cotizacion' not found in /home7/grupore1/public_html/galverperu/portal/moduls/cotizacion/index.php on line 1
+[24-Oct-2012 12:38:01] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:38:01] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:38:01] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 334
+[24-Oct-2012 12:38:01] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 336
+[24-Oct-2012 12:38:01] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 395
+[24-Oct-2012 12:38:25] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:38:25] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:38:25] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 334
+[24-Oct-2012 12:38:25] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 336
+[24-Oct-2012 12:38:25] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 395
+[24-Oct-2012 12:41:50] PHP Warning:  mysqli_num_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:41:50] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 322
+[24-Oct-2012 12:41:50] PHP Warning:  mysqli_fetch_fields() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 334
+[24-Oct-2012 12:41:50] PHP Warning:  Invalid argument supplied for foreach() in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 336
+[24-Oct-2012 12:41:50] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home7/grupore1/public_html/galverperu/portal/code/lib/htmlhelper.php on line 395
+[15-Dec-2012 12:30:39] PHP Notice:  Undefined index:  empresa in /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php on line 20
+[15-Dec-2012 12:30:39] PHP Notice:  Undefined variable: usuario in /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php on line 21

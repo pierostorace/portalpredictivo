@@ -1,0 +1,4 @@
+[13-Mar-2013 10:01:52] PHP Notice:  Undefined index:  empresa in /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php on line 20
+[13-Mar-2013 10:01:52] PHP Notice:  Undefined variable: usuario in /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php on line 21
+[13-Mar-2013 11:55:56] PHP Notice:  Undefined index:  empresa in /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php on line 20
+[13-Mar-2013 11:55:56] PHP Notice:  Undefined variable: usuario in /home7/grupore1/public_html/galverperu/portal/include/cab_principal.php on line 21
